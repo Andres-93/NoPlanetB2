@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_blanco_semitrans">#c2ffffff</color>
+    <color name="color_fondoBoton">#c2adfff3</color>
+    <color name="colo_fondoBoton_Presionado">#c2adbfff</color>
+    <color name="colorPrincipalBarra">#2176ff</color>
+    <color name="colorSegundarioBarra">#003283</color>
+</resources>
